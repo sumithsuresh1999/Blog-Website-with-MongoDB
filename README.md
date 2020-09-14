@@ -1,5 +1,5 @@
 ### Blog-Website-with-MongoDB:
 
 <div align = "center">
-  ![Screenshot](Images/BlogPost1.png)
+  <img src = "Images/BLogPost1.png" />
 </div>
