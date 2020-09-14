@@ -10,8 +10,8 @@
 <br>
 <div align = "center">
   <h2>Composing new post and posting it on home page:</h2>
-  <img src="/Images/BlogPost2.jpg" />
   <h3>Add the "/compose" tag to the link, to go to the compose page.</h3>
+  <img src="/Images/BlogPost2.jpg" />
 </div>
 <br>
 
@@ -20,8 +20,8 @@
 <br>
 <div align = "center">
   <h2>Add the Post Title and Content:</h2>
-  <img src="/Images/BlogPost3.jpg" />
   <h3>After entering the title and content of the post, press "Publish" which will redirect you to the homepage automatically.</h3>
+  <img src="/Images/BlogPost3.jpg" />
 </div>
 <br>
 
@@ -39,8 +39,8 @@
 <br>
 <div align = "center">
   <h2>To read the complete post:</h2>
-  <img src="/Images/BlogPost5.jpg" />
   <h3>Click the "Read More" option <h3>
+  <img src="/Images/BlogPost5.jpg" />
 </div>
 <br>
 
